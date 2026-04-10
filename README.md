@@ -38,5 +38,4 @@
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<!--
-**sulekhamondal2/sulekhamondal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
