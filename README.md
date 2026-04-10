@@ -26,7 +26,7 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: sulekhamondal1905@gmail.com
-- linkdin: https://www.linkedin.com/in/sulekha-mondal-990b05379
+- Linkedin: https://www.linkedin.com/in/sulekha-mondal-990b05379
 
 ---
 
