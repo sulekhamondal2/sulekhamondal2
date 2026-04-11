@@ -31,9 +31,9 @@
 ---
 
 ✨ *“Keep learning, keep building!”* 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sulekhamondal2&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sulekhamondal2&theme=radical)
 
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
