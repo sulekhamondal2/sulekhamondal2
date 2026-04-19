@@ -20,7 +20,7 @@
 - 🖥️ digital Calculator
 -   To Do List
 -   Memory Game
--   
+-  Weather App 
   
 
 ---
