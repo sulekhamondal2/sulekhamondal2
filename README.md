@@ -17,7 +17,10 @@
 
 ## 🔥 Projects
 - 🐍 Snake Game
-- 🖥️ digital calculator
+- 🖥️ digital Calculator
+-   To Do List
+-   Memory Game
+-   
   
 
 ---
