@@ -1,44 +1,52 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&size=35&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;I+am+a+Web+Developer;I+Love+Coding+🔥)
+<div align="center">
 
-# 👋 Hi, I'm Sulekha Mondal
+# 🌸 Hi, I'm Sulekha Mondal 🌸
 
-🌱 Beginner Web Developer  
-💻 Learning HTML, CSS, JavaScript  
-🚀 Building cool projects & games  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=FF69B4&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Creative+Coder;Always+Learning+✨" />
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat" />
 
-## 🧠 Skills
-- HTML 🧱
-- CSS 🎨
-- JavaScript ⚡
+</div>
 
 ---
 
-## 🔥 Projects
-- 🐍 Snake Game
-- 🖥️ digital Calculator
--   To Do List
--   Memory Game
--  Weather App 
-  
+## 💖 About Me
+
+- 🌷 Passionate Frontend Developer
+- 💻 Currently learning JavaScript and React
+- 🎨 Love creating beautiful websites
+- 🚀 Building exciting projects every day
 
 ---
 
+## 🌸 Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ffc0cb?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
 
-## 🌐 Connect With Me
+---
+
+## 📊 GitHub Stats
+
+![Sulekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🌺 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sulekha-mondal-990b05379
 - 📧 Email: sulekhamondal1905@gmail.com
-- Linkedin: https://www.linkedin.com/in/sulekha-mondal-990b05379
-
 ---
 
-✨ *“Keep learning, keep building!”* 
-![Profile Views](https://komarev.com/ghpvc/?username=sulekhamondal2&color=blue)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sulekhamondal2&theme=radical)
+✨ Thanks for visiting my profile! ✨
 
-![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+</div>
