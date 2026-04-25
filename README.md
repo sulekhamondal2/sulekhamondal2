@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=FF69B4&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Creative+Coder;Always+Learning+✨" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sulekhamondal2&label=Profile+Views&color=ff69b4&style=flat" />
 
 </div>
 
@@ -29,13 +29,13 @@
 
 ## 📊 GitHub Stats
 
-![Sulekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sulekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulekhamondal2&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sulekhamondal2&theme=radical)
 
 ---
 
