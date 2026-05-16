@@ -32,11 +32,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sulekhamondal2&theme=radical)
-
----
 
 ## 🌺 Connect With Me
 
