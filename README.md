@@ -41,12 +41,8 @@
 --- 
 
  <div align="center">
-🌸 Cute Quote 🌸
+
 ✨ "Code with passion, design with love." ✨
 </div>
 
-<div align="center">
 
-✨ Thanks for visiting my profile! ✨
-
-</div>
