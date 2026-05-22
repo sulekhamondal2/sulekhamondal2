@@ -31,10 +31,6 @@
 ![Sulekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulekhamondal2&show_icons=true&theme=radical)
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sulekhamondal2&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sulekhamondal2&theme=radical&hide_border=true&background=00000000"/>
-
-<br><br>
-
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/> </div>
 
 ---
