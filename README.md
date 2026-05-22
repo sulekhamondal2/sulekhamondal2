@@ -38,7 +38,12 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sulekha-mondal-990b05379
 - 📧 Email: sulekhamondal1905@gmail.com
----
+--- 
+
+ <div align="center">
+🌸 Cute Quote 🌸
+✨ "Code with passion, design with love." ✨
+</div>
 
 <div align="center">
 
