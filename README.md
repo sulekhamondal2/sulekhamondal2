@@ -30,11 +30,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 My GitHub Streak
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sulekhamondal2&theme=radical&hide_border=true&background=00000000"/>
----
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sulekhamondal2)](https://git.io/streak-stats)
 
 
 ## 🌺 Connect With Me
