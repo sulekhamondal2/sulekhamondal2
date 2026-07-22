@@ -28,9 +28,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=c++&logoColor=white"/>
 
 
 ---
